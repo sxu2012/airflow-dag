@@ -1,0 +1,52 @@
+jane@DESKTOP-MVA50G6:~/airflow$ python3 log_analyzer.py
+Total Number of Error Logs:0
+Total Number of Warning Logs:24
+[2022-05-23 22:49:37,700] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:37:52,073] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:39,871] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:37:54,251] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:13,428] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:04:57,908] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:15,729] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:05:00,227] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:50,996] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:38:03,934] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:53,149] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:38:06,031] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:17,862] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:19,912] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:38:35,367] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:38:37,639] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:24,063] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:37:41,113] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:49:26,157] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:37:43,364] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:50:00,535] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:38:13,880] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-23 22:50:02,617] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+[2022-05-24 15:38:16,020] {logging_mixin.py:115} WARNING - /usr/local/lib/python3.8/dist-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+
+jane@DESKTOP-MVA50G6:~/airflow$
